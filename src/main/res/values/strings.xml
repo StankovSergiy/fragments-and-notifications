@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments With Notifications</string>
+
+    <!-- fragment  -->
+    <string name="btn_notification">Create new notification</string>
+    <!-- fragment  -->
+</resources>
